@@ -17,13 +17,7 @@ mensageria-almoxarifado/\
 |---- app.py\
 |---- apppedidos.py\
 |---- README.md\
-|&nbsp;&nbsp;&nbsp;&nbsp;|---- main.py\
-|&nbsp;&nbsp;&nbsp;&nbsp;|---- __init__.py\
-|&nbsp;&nbsp;&nbsp;&nbsp;|---- models/\
-|&nbsp;&nbsp;&nbsp;&nbsp;|---- routers/\
-|&nbsp;&nbsp;&nbsp;&nbsp;|---- schemas/\
-|&nbsp;&nbsp;&nbsp;&nbsp;|---- crud/\
-|&nbsp;&nbsp;&nbsp;&nbsp;|---- auth/
+
 
 
 # Requisitos
