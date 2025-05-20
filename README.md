@@ -33,7 +33,7 @@ mensageria-almoxarifado/\
    1. **Repositório GitHub:**
       - Repositório público contendo o código fonte e documentação.
    2. **Apresentação:**
-      - Apresentação do Projeto no minicurso "Mensageria", realizado no canal Youtube "Lucas Lira Ensina", https://www.youtube.com/@luc.aslira.
+      - Apresentação do Projeto no minicurso "Mensageria", realizado no canal Youtube "Lucas Lira Ensina", [youtube.com/@lucasliraensina](https://www.youtube.com/@lucasliraensina).
    3. **Documentação:**
       - README.md com instruções básicas sobre o projeto.
 
